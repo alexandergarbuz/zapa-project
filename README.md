@@ -34,12 +34,12 @@ Students are expected to produce the following artifacts:
 
 - [Business Case](Business-Case.md)
 - [Project Charter](Project-Charter.md)
-- Work Breakdown Structure (WBS)
+- [Work Breakdown Structure (WBS)](WBS.md)
 - Project Schedule
 - Project Budget
-- Risk Management Plan
+- [Risk Management Plan](Risk-Register.md)
 - Communications Plan
-- Stakeholder Management Plan
+- [Stakeholder Management Plan](Stakeholder-Registry.md)
 
 ---
 
