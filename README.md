@@ -16,7 +16,7 @@ This is a simulation and case study project designed to teach fundamental concep
 
 ## General Description
 
-This project is based on events in a fictional Resident Evil universe scenario.
+This project is based on events in a fictional Resident Evil universe [scenario](Story.md).
 
 In 1998, the accidental release of the T-Virus triggered a global pandemic that led to the collapse of human civilization and left Umbrella Corporation in a prolonged state of systemic decline. By 2003, the corporation had lost most of its assets, infrastructure, and global market influence.
 
