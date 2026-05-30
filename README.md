@@ -9,6 +9,8 @@ This is a simulation and case study project designed to teach fundamental concep
 - Risk management
 - Issue management
 - Budgeting and procurement management
+- Stakeholder management
+- Communication management
 
 ---
 
@@ -34,7 +36,7 @@ Students are expected to produce the following artifacts:
 - Project Schedule
 - Project Budget
 - Risk Management Plan
-- Communications Management Plan
+- Communications Plan
 - Stakeholder Management Plan
 
 ---
