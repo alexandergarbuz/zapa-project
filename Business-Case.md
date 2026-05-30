@@ -1,5 +1,22 @@
 # Zombie Apocalypse Preparedness Analysis (Z.A.P.A.)
 
+# Table of Contents
+
+- [1.0 Introduction / Background](#10-introduction--background)
+- [2.0 Business Objective](#20-business-objective)
+- [3.0 Current Situation and Problem / Opportunity Statement](#30-current-situation-and-problem--opportunity-statement)
+- [4.0 Critical Assumptions and Constraints](#40-critical-assumptions-and-constraints)
+  - [4.1 Key Assumptions](#41-key-assumptions)
+  - [4.2 Core Constraints](#42-core-constraints)
+- [5.0 Analysis of Options and Recommendation](#50-analysis-of-options-and-recommendation)
+  - [5.1 Options](#51-options)
+  - [5.2 Analysis](#52-analysis)
+  - [5.3 Recommendation](#53-recommendation)
+- [6.0 Preliminary Project Requirements](#60-preliminary-project-requirements)
+- [7.0 Budget Estimate and Financial Analysis](#70-budget-estimate-and-financial-analysis)
+- [8.0 Schedule Estimate](#80-schedule-estimate)
+- [9.0 Potential Risks](#90-potential-risks) 
+
 ## 1.0 Introduction / Background
 
 In 1998, the outbreak of the T-Virus caused a global pandemic and resulted in most of the human population being turned into zombies. As a result, most humans died, and Umbrella Corporation lost most of its assets by 2003.
