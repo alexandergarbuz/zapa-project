@@ -32,7 +32,7 @@ You main objective is to save the humanity. You are are expected to work as a te
 
 Students are expected to produce the following artifacts:
 
-- Business Case
+- [Business Case](Business-Case.md)
 - Project Charter
 - Work Breakdown Structure (WBS)
 - Project Schedule
