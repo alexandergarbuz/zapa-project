@@ -1,62 +1,48 @@
-# Umbrella PM Simulation
+# Zombie Apocalypse Preparedness Analysis (Z.A.P.A.)
 
-## Project Description
+## Overview
 
-This repository contains a fictional Project Management simulation based on a high-risk enterprise scenario involving Umbrella Corporation.
+This is a simulation and case study project designed to teach fundamental concepts of Project Management, including:
 
-The simulation is designed as an educational tool for learning and practicing real-world project management concepts using a structured but fictional case study.
-
-The scenario includes an advanced strategic initiative where the organization attempts to use experimental technology to prevent a historical global catastrophe and restore its corporate position.
-
----
-
-## Purpose
-
-The main purpose of this project is to provide a realistic environment for practicing:
-
-- Project planning and execution
+- Project initiation
+- Project planning and scheduling
 - Risk management
-- Stakeholder analysis
-- Scope and change control
-- Resource and schedule planning
-- Crisis response in constrained environments
+- Issue management
+- Budgeting and procurement management
 
 ---
 
-## Educational Focus
+## General Description
 
-This project is intended for:
+This project is based on events in a fictional Resident Evil universe scenario.
 
-- Project Management students
-- PMBOK/PMI training exercises
-- Simulation-based learning environments
-- Scenario-based decision making practice
+In 1998, the accidental release of the T-Virus triggered a global pandemic that led to the collapse of human civilization and left Umbrella Corporation in a prolonged state of systemic decline. By 2003, the corporation had lost most of its assets, infrastructure, and global market influence.
 
-All content is designed to reflect real project management principles applied to complex and uncertain conditions.
+Facing extinction in a world where traditional recovery was no longer possible, the company’s executive leadership concluded that restoration of its former position could only be achieved by addressing the root cause of the catastrophe.
 
----
-
-## Important Note
-
-This is a fictional simulation.  
-It is not based on real events or real organizations.
-
-The focus is strictly on Project Management methodology, not narrative storytelling.
+With the discovery of time travel technology, a classified program was initiated to deploy a carefully selected tactical team of highly trained former military personnel back in time. Their mission is to operate covertly in the pre-outbreak timeline to prevent the release of the T-Virus, thereby altering the timeline and restoring global stability as well as the corporation’s strategic dominance.
 
 ---
 
-## Objective of the Simulation
+## Project Deliverables
 
-To help learners understand how to manage complex projects with:
+Students are expected to produce the following artifacts:
 
-- strict constraints
-- high uncertainty
-- limited resources
-- irreversible decisions
-- high-impact risks
+- Business Case
+- Project Charter
+- Work Breakdown Structure (WBS)
+- Project Schedule
+- Project Budget
+- Risk Management Plan
+- Communications Management Plan
+- Stakeholder Management Plan
 
 ---
 
-## Status
+## Notes for Students
 
-Active educational simulation project.
+Participants are encouraged to extend and enrich the case with additional assumptions, constraints, risks, and dependencies where needed.
+
+This is an educational simulation intended to make Project Management concepts engaging, practical, and scenario-driven.
+
+It is a learning exercise — creativity is encouraged.
