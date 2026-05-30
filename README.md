@@ -45,6 +45,4 @@ Students are expected to produce the following artifacts:
 
 Participants are encouraged to extend and enrich the case with additional assumptions, constraints, risks, and dependencies where needed.
 
-This is an educational simulation intended to make Project Management concepts engaging, practical, and scenario-driven.
-
-It is a learning exercise — creativity is encouraged.
+You are allowed and encouraged to make up any missing details. This is supposed to be a *fun* poject.
