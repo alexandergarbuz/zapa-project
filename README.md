@@ -18,11 +18,7 @@ This is a simulation and case study project designed to teach fundamental concep
 
 This project is based on events in a fictional Resident Evil universe [scenario](Story.md).
 
-In 1998, the accidental release of the T-Virus triggered a global pandemic that led to the collapse of human civilization and left Umbrella Corporation in a prolonged state of systemic decline. By 2003, the corporation had lost most of its assets, infrastructure, and global market influence.
-
-Facing extinction in a world where traditional recovery was no longer possible, the company’s executive leadership concluded that restoration of its former position could only be achieved by addressing the root cause of the catastrophe.
-
-With the discovery of time travel technology, a classified program was initiated to deploy a carefully selected tactical team of highly trained former military personnel back in time. Their mission is to operate covertly in the pre-outbreak timeline to prevent the release of the T-Virus, thereby altering the timeline and restoring global stability as well as the corporation’s strategic dominance.
+In 1998, the accidental release of the T-Virus triggered a global pandemic that led to the collapse of human civilization and left Umbrella Corporation in a prolonged state of systemic decline. With the discovery of time travel technology, a classified program was initiated to deploy a carefully selected tactical team of highly trained former military personnel back in time. Their mission is to operate covertly in the pre-outbreak timeline to prevent the release of the T-Virus, thereby altering the timeline and restoring global stability as well as the corporation’s strategic dominance.
 
 ---
 
